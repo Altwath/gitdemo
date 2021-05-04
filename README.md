@@ -1,2 +1,2 @@
 # gitdemo
-Simplilear lab one 
+Simplilearn lab one 
